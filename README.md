@@ -1,0 +1,2 @@
+# liteDB
+Initial Commit
